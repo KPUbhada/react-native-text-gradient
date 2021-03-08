@@ -1,6 +1,10 @@
 import { Platform } from 'react-native';
 import createTextGradientClass from './create-text-gradient-class';
 
+
+
+
+
 export default createTextGradientClass(
   'RNLinearTextGradient',
   'RNVirtualLinearTextGradient',
